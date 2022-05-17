@@ -119,6 +119,7 @@ function fullscreen() {
 	}
 }
 
+window.onload = function(){
 //HEAD
 //The head contains the page title, favicon, and all the CSS.
 document.head.innerHTML = `
@@ -960,6 +961,7 @@ Some games forked from theadvancedmethod<br>
 <h4>©Copyright 2021-2022 Bob's Game Shack<br>Contact: bob@bobs-shack.xyz</h4>
 <a href="#"onclick="dmt()"><h5>Developer mode</h5></a>
 `;
+}
 
 //JAVASCRIPT P2
 function play(game,gameName){
