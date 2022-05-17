@@ -12,7 +12,7 @@ I place code into the HTML through JavaScript by using document.body.innerHTML a
 IMPORTANT!
 You are allowed to copy any CSS or JavaScript in this file, but copying the entire website is strictly forbidden. If you end up using any part of my code, please credit me somewhere on the website.
 
-00.05.29
+00.07.29
 */
 
 
